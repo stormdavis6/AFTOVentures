@@ -30,7 +30,7 @@ const AppList = () => {
                         {/* Text Content */}
                         <h3 className="text-xl font-semibold mb-2 text-[#ECF0F1]">Almost AI</h3>
                         <p className="text-[#BDC3C7] mb-4">
-                            Almost AI combines cutting-edge technology with pure chaos. It's artificial, it's intelligent—just never at the same time.
+                            Almost AI combines cutting-edge technology with pure chaos. It&apos;s artificial, it&apos;s intelligent—just never at the same time.
                         </p>
                         <Link href="/app1" className="text-[#00BFFF] hover:text-[#1F9DCE] transition duration-300">
                             Learn More

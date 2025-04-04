@@ -72,7 +72,7 @@ const ContactSection = () => {
                 <div className="fixed inset-0 flex items-center justify-center bg-transparent backdrop-blur-md">
                     <div className="bg-white/90 text-black p-6 rounded-lg shadow-lg text-center max-w-sm mx-auto">
                         <h3 className="text-2xl font-semibold mb-4">Thank You!</h3>
-                        <p>Your message has been sent. We will be in touch as soon as possible.</p>
+                        <p>Your message has been sent. We&apos;ll be in touch as soon as possible.</p>
                         <button
                             onClick={() => setIsSubmitted(false)}
                             className="mt-4 bg-teal-600 text-white px-6 py-3 rounded-md hover:bg-teal-700 transition duration-300"
